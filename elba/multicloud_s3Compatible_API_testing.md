@@ -31,7 +31,7 @@ Once you have all the installation, We need to get two types of token/key to sta
 3.  Above step will ask to save the generated file. Get the accessKey and secretKey values from above file. This is the unified access and secret key for multicloud
  
 
-### *Get the X-Auth-Token:
+ #### * Get the X-Auth-Token:
 From, Postman run the following GET request:
 ```url
 http://<Your SODA multicloud server installation Host IP>/identity/v3/auth/tokens
@@ -120,3 +120,7 @@ Request body:
    URL: http://<Host_IP>:8090/<your_bucket_name>/<obj_to_be_uploaded>
    * Choose 'Body' as 'Binary'
    * Select the file to be uploaded from 'Select File'
+
+
+### Refrences
+https://github.com/sodafoundation/multi-cloud/blob/master/docs/installation_and_testing.md
