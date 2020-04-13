@@ -69,3 +69,5 @@ Twitter  : @sodafoundation
 
 Mailinglist  : [https://lists.opensds.io](https://lists.opensds.io/groups)
 
+## You can add your open source project to SODA Foundation Project Landscape
+If you want to submit your project to SODA Foundation to leverage better branding, networking, users, testing and enhance the community OR you want to know more about it, please mail to project-submit@sodafoundation.io
