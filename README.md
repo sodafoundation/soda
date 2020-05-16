@@ -65,9 +65,9 @@ Website : [https://sodafoundation.io](https://sodafoundation.io/)
 
 Slack  : [https://sodafoundation.io/slack/](https://sodafoundation.io/slack/)
 
-Twitter  : @sodafoundation
+Twitter  : [@sodafoundation](https://twitter.com/sodafoundation)
 
-Mailinglist  : [https://lists.opensds.io](https://lists.opensds.io/groups)
+Mailinglist  : [https://lists.sodafoundation.io](https://lists.sodafoundation.io/)
 
 ## You can add your open source project to SODA Foundation Project Landscape
 If you want to submit your project to SODA Foundation to leverage better branding, networking, users, testing and enhance the community OR you want to know more about it, please mail to project-submit@sodafoundation.io
