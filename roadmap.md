@@ -1,5 +1,7 @@
 # SODA Releases Roadmap
 
+<img src="https://sodafoundation.io/wp-content/uploads/2020/01/SODA_logo_outline_color_800x800.png" width="200" height="200">
+
 ## Introduction
 SODA Foundation release will be an umbrella release comprising of multiple projects viz., SODA Core Projects, SODA Native Projects and SODA Eco Projects. Currently the releases are quaterly basis.
 
