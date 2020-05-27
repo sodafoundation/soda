@@ -57,6 +57,8 @@ OR checkout from the respective project at project-specific-github-link/issues
 
 Build SODA which is an open source unified autonomous data management framework for data mobility from edge to core to cloud. Also provide a unified data platform and establish a unified data/storage management API standards working with standard bodies and industry partners.
 
+Release Roadmap and Scope are available [here](https://github.com/sodafoundation/releases/blob/master/roadmap.md)
+
 [https://docs.sodafoundation.io](https://docs.sodafoundation.io/)
 
 ## Join SODA Foundation
