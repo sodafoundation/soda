@@ -38,24 +38,29 @@ The SODA Releases are made on Quaterly basis currently.
 - Orchestartion and Anomaly Detection: No Change
 - YIG and LinStor as SODA Native projects
 - github community healthfiles streamlined for SODA Core projects
-- CSI Plug and Play Prototype
+- CSI Plug and Play Prototype (experimental)
 
 ## Q3 2020 Scope ('G' Release) (Tentative)
+- SODA Data Analytics
+- Spark/Hadoop Streaming, NoSQL integration
+- S3 Select
+- NVMe
+- Data Protection
+- LINSTOR, OpenEBS integration
 - Basic SODA Edge
-- SODA DDS – Data Lifecyle; Unified Archtiecture (onprem, cloud)
-- NBP Plugins for VMWare
-- Intelligent Telemetry: Performance 
+- NBP More Plugins for VMWare
+- Intelligent Telemetry: Add Performance 
 - More Storage  Drivers
 - API Specification v0.2
 
 ## Q4 2020 Scope ('H' Release) (Tentative)
+- SODA Edge
+- Search Engine
+- Data Lifecycle: edge to core to cloud
+- TensorFlow
 - SODA Standards v1.0
 - SODA DDS – Data Protection, Unified Architecture (edge, onprem, cloud)
-- SODA Edge-Core-Cloud Usecase
 - NBP : K8S, VMWare(more plugins), Openshift? and OpenStack
 - Intelligent Telemetry: storage, host, switch, and application levels data;  Supports static and dynamic fault detection, anomaly.
-- 3-5 Native and Eco Projects
-- SODA Project Landscape
-
 
 
