@@ -63,4 +63,6 @@ The SODA Releases are made on Quaterly basis currently.
 - NBP : K8S, VMWare(more plugins), Openshift? and OpenStack
 - Intelligent Telemetry: storage, host, switch, and application levels data;  Supports static and dynamic fault detection, anomaly.
 
-
+## Older Releases Information (2017-2019)
+_NOTE: The older release roadmap from 2017-2019 under OpenSDS(previous name for SODA Foundation) is shown below
+<img src="https://github.com/sodafoundation/documentation/blob/master/content/releases/releases2017-2019.png">
