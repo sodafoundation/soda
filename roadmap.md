@@ -36,9 +36,10 @@ The SODA Releases are made on Quaterly basis currently.
 - Installer & Documentations: Installer configurable and improved to handle all projects; all the facing documents are updated
 - API Specification v0.1 Draft for File/block(on prem) , Multicloud and SIM
 - Orchestartion and Anomaly Detection: No Change
-- YIG and LinStor as SODA Native projects
+- YIG as SODA Native projects
 - github community healthfiles streamlined for SODA Core projects
 - CSI Plug and Play Prototype (experimental)
+### The release is available [here](https://github.com/sodafoundation/releases/releases/tag/v1.0.0)
 
 ## Q3 2020 Scope ('G' Release) (Tentative)
 - SODA Data Analytics
