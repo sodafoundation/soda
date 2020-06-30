@@ -19,7 +19,7 @@ The SODA Releases are made on Quaterly basis currently.
 - Q3: Sep/Oct
 - Q4: Dec/Jan
 
-## Q1 2020 Scope ('E' Release)
+## Q1 2020 Scope ('E' Release) - Elba Release
 - Projects Migration from OpenSDS
 - Project Reorganization (Decouple API, Controller and DOCK, Refine interfaces)
 - S3 Compatible APIs in Multicloud
@@ -29,7 +29,7 @@ The SODA Releases are made on Quaterly basis currently.
 - Streaming use case demo using Multicloud
 ### The release is available [here](https://github.com/sodafoundation/releases/releases/tag/v0.20.0)
 
-## Q2 2020 Scope ('F' Release)
+## Q2 2020 Scope ('F' Release) - Faroe Release
 - First Major Version (1.0.0) release
 - SODA Infrastructure Manager (SIM) (Storage Resource, Alarm and Performance Metrics)
 - Multicloud: Dashboard fix for S3 compatible API, File/Block Service Support Design and Prototypes, Alibaba backend support added
