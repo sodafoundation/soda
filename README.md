@@ -72,4 +72,4 @@ Twitter  : [@sodafoundation](https://twitter.com/sodafoundation)
 Mailinglist  : [https://lists.sodafoundation.io](https://lists.sodafoundation.io/)
 
 ## You can add your open source project to SODA Foundation Project Landscape
-If you want to submit your project to SODA Foundation to leverage better branding, networking, users, testing and enhance the community OR you want to know more about it, please mail to project-submit@sodafoundation.io
+If you want to submit your project to SODA Foundation to leverage better branding, networking, users, testing and enhance the community, you can apply at [SODA Incubator](https://sodafoundation.io/projects/incubator/)
