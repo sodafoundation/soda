@@ -19,7 +19,11 @@ SODA Project is the umbrella data framework integration of multiple projects to 
 
 Each of the SODA Release will be provided a combined solution and use case value integrating selected SODA Projects. It will provide a reference solution/architecture and helps to get a combined value of SODA Landscape projects. This also can help the user to build specific business solution starting from these reference solutions.
 
-All the SODA Releases will be made from github.com/sodafoundation/soda from now onwards. As per the current plan, we will be starting our quarterly releases from Elba release.
+All the SODA Releases will be made from github.com/sodafoundation/soda. As per the current plan, we will be starting our quarterly releases from Elba release.
+
+## SODA Projects
+
+Please find all the SODA Projects information [here](https://docs.sodafoundation.io/projects/)
 
 ## Documentation
 
