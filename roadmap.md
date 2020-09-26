@@ -19,7 +19,7 @@ The SODA Releases are made on Quaterly basis currently.
 - Q3: Sep/Oct
 - Q4: Dec/Jan
 
-## Q1 2020 Scope ('E' Release) - Elba Release
+## Q1 2020 Scope ('E' Release) - Elba Release v0.20.0
 - Projects Migration from OpenSDS
 - Project Reorganization (Decouple API, Controller and DOCK, Refine interfaces)
 - S3 Compatible APIs in Multicloud
@@ -29,7 +29,7 @@ The SODA Releases are made on Quaterly basis currently.
 - Streaming use case demo using Multicloud
 ### The release is available [here](https://github.com/sodafoundation/releases/releases/tag/v0.20.0)
 
-## Q2 2020 Scope ('F' Release) - Faroe Release
+## Q2 2020 Scope ('F' Release) - Faroe Release v1.0.0
 - First Major Version (1.0.0) release
 - SODA Infrastructure Manager (SIM) (Storage Resource, Alarm and Performance Metrics)
 - Multicloud: Dashboard fix for S3 compatible API, File/Block Service Support Design and Prototypes, Alibaba backend support added
@@ -41,18 +41,14 @@ The SODA Releases are made on Quaterly basis currently.
 - CSI Plug and Play Prototype (experimental)
 ### The release is available [here](https://github.com/sodafoundation/releases/releases/tag/v1.0.0)
 
-## Q3 2020 Scope ('G' Release) (Tentative)
-- SODA Data Analytics
-- Spark/Hadoop Streaming, NoSQL integration
-- S3 Select
-- NVMe
-- Data Protection
-- LINSTOR, OpenEBS integration
-- Basic SODA Edge
-- NBP More Plugins for VMWare
-- Intelligent Telemetry: Add Performance 
-- More Storage  Drivers
-- API Specification v0.2
+## Q3 2020 Scope ('G' Release) - Greenland Release v1.1.0 (on going)
+- Heterogeneous Storage Performance Monitoring; Enhance resource and alert features
+- Prometheus Integration with Storage Performance Monitoring
+- SODA CSI plug-and-play
+- Multi-cloud file services added support for GCP in addition to AWS and Azure; enhance block service feature
+- SODA Edge Experiment
+- File Support for NetApp ONTAP and more South Bound Drivers
+- SODA Experience (Installer, Dashboard and Documentation) updates
 
 ## Q4 2020 Scope ('H' Release) (Tentative)
 - SODA Edge
