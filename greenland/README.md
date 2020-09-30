@@ -8,8 +8,6 @@
 5. File Support for NetApp ONTAP and more South Bound Drivers enables more on-premise DC use cases.
 
 ## Releases
-- Greenland Pre-Release v1.1.0 : [https://github.com/sodafoundation/soda/releases/tag/v1.1.0](https://github.com/sodafoundation/soda/releases/tag/v1.1.0)
-	 - All the information about the release available at the release link
  - Greenland Pre-Release v1.0.1 : [https://github.com/sodafoundation/soda/releases/tag/v1.0.1](https://github.com/sodafoundation/soda/releases/tag/v1.0.1)
 	 - All the information about the release available at the release link
 	
