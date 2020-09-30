@@ -1,13 +1,23 @@
 # SODA Greenland Release Q3 2020
 
-## Release Focus
-1. Storage Performance Monitoring (SPM) offers a unified view in a heterogeneous storage environment. SPM integrates with tools such as Prometheus and Kafka to provide deep visibility and insights into cloud native environments
-2. SODA CSI plug-and-play enables multi-vendor CSI storage to be managed by the SODA Open Data Framework simplifying storage management for Kubernetes
-3. Multi-cloud file services added support for GCP in addition to AWS and Azure
-4. KubeEdge integration experimental feature provides a first glimpse into edge data management with SODA
-5. File Support for NetApp ONTAP and more South Bound Drivers enables more on-premise DC use cases.
+## Summary :
+
+SODA Greenland Release is an incremental release on Faroe Release(v1.0.0) of SODA Foundation. 
+The earlier stable release Faroe, you can get [here](https://github.com/sodafoundation/soda/releases/tag/v1.0.0).
+
+**SODA Greenland** will focus on providing a heterogeneous framework for storage monitoring and management with enhanced features and drivers over the last release.  (*Greenland is the world's largest island located between the Arctic and Atlantic oceans and an autonomous territory (ref: Wikipedia)*).
+
+SODA Open Data Framework (ODF) Greenland release adds unified storage performance monitoring, and integrates with Prometheus and Kafka to offer deep visibility and insights into cloud native environments. ODF delivers integrated data management and enables seamless data mobility between on-premise and multicloud
+
+It also provides the first experiment for Edge Data Management with SODA along with [KubeEdge](https://kubeedge.io/en/), a Kubernetes native edge computing platform & a CNCF project
+
+**Greenland: Together we can meet the challenge and grow to the best!**
+
 
 ## Releases
+ - Greenland Release v1.1.0 : [https://github.com/sodafoundation/soda/releases/tag/v1.1.0](https://github.com/sodafoundation/soda/releases/tag/v1.1.0)
+	 - All the information about the release available at the release link
+
  - Greenland Pre-Release v1.0.1 : [https://github.com/sodafoundation/soda/releases/tag/v1.0.1](https://github.com/sodafoundation/soda/releases/tag/v1.0.1)
 	 - All the information about the release available at the release link
 	
