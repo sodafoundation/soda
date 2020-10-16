@@ -41,7 +41,7 @@ The SODA Releases are made on Quaterly basis currently.
 - CSI Plug and Play Prototype (experimental)
 ### The release is available [here](https://github.com/sodafoundation/releases/releases/tag/v1.0.0)
 
-## Q3 2020 Scope ('G' Release) - Greenland Release v1.1.0 (on going)
+## Q3 2020 Scope ('G' Release) - Greenland Release v1.1.0 
 - Heterogeneous Storage Performance Monitoring; Enhance resource and alert features
 - Prometheus Integration with Storage Performance Monitoring
 - SODA CSI plug-and-play
@@ -49,16 +49,18 @@ The SODA Releases are made on Quaterly basis currently.
 - SODA Edge Experiment
 - File Support for NetApp ONTAP and more South Bound Drivers
 - SODA Experience (Installer, Dashboard and Documentation) updates
+### The release is available [here](https://github.com/sodafoundation/soda/releases/tag/v1.1.0)
 
-## Q4 2020 Scope ('H' Release) (Tentative)
-- SODA Edge
-- Search Engine
-- Data Lifecycle: edge to core to cloud
-- TensorFlow
-- SODA Standards v1.0
-- SODA DDS – Data Protection, Unified Architecture (edge, onprem, cloud)
-- NBP : K8S, VMWare(more plugins), Openshift? and OpenStack
-- Intelligent Telemetry: storage, host, switch, and application levels data;  Supports static and dynamic fault detection, anomaly.
+## Q4 2020 Scope ('H' Release) - Hawaii Release v1.2.0 (On Going / Planning)
+Focus on E2E use cases.
+- Heterogeneous storage monitoring with analytics
+- Data Replication / Snapshot, Failover usecases (on-prem / cloud)
+- Big Data processing (onprem+cloud)
+- Edge use cases (edge+cloud)
+- Features working for e2e usecases/gap fixes (multicloud-datalifecycle, migration, replication)
+- Addition of drivers / backends
+- SODA API Standards v1.0
+
 
 ## Older Releases Information (2017-2019)
 _NOTE: The older release roadmap from 2017-2019 under OpenSDS(previous name for SODA Foundation) is shown below
