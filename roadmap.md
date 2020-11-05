@@ -58,6 +58,7 @@ Focus on E2E use cases.
 - Big Data processing (onprem+cloud)
 - Edge use cases (edge+cloud)
 - Features working for e2e usecases/gap fixes (multicloud-datalifecycle, migration, replication)
+- Easy CSI Driver integration / CSI Plug n play updates
 - Addition of drivers / backends
 - SODA API Standards v1.0
 
