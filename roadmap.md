@@ -31,12 +31,11 @@ The SODA Releases are made on Quaterly basis currently.
 
 ## Q2 2020 Scope ('F' Release) - Faroe Release v1.0.0
 - First Major Version (1.0.0) release
-- SODA Infrastructure Manager (SIM) (Storage Resource, Alarm and Performance Metrics)
+- SODA Infrastructure Manager (SIM) (Storage Resource, Alarm)
 - Multicloud: Dashboard fix for S3 compatible API, File/Block Service Support Design and Prototypes, Alibaba backend support added
 - Installer & Documentations: Installer configurable and improved to handle all projects; all the facing documents are updated
 - API Specification v0.1 Draft for File/block(on prem) , Multicloud and SIM
 - Orchestartion and Anomaly Detection: No Change
-- YIG as SODA Native projects
 - github community healthfiles streamlined for SODA Core projects
 - CSI Plug and Play Prototype (experimental)
 ### The release is available [here](https://github.com/sodafoundation/releases/releases/tag/v1.0.0)
