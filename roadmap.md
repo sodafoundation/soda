@@ -19,6 +19,24 @@ The SODA Releases are made on Quaterly basis currently.
 - Q3: Sep/Oct
 - Q4: Dec/Jan
 
+# 2021
+## Q1 2021 Scope ('I' Release) (Under Planning)
+- Enhanced Heterogeneous Storage Performance Monitoring (More metrics, drivers and framework capabilities)
+- Enhanced analytics and alert management
+- CSI Plug and Play with more drivers
+- Hybrid Data Management (Edge, Connect Cloud with Onprem) 
+- Multicloud Enhancements (Cold Storage, Heterogeneous Object, GCP fix)
+
+## Q2, Q3, Q4 2021 Scope ('J', 'K', 'L' Releases) (Under Planning)
+- Hybrid Data Store
+- Global Meta Data
+- Project integrations (LinStor, DAOS, YIG, OpenEBS and more)
+- Unified API
+- Intelligent Costing
+- Hybrid DR
+
+
+# 2020
 ## Q1 2020 Scope ('E' Release) - Elba Release v0.20.0
 - Projects Migration from OpenSDS
 - Project Reorganization (Decouple API, Controller and DOCK, Refine interfaces)
@@ -50,17 +68,16 @@ The SODA Releases are made on Quaterly basis currently.
 - SODA Experience (Installer, Dashboard and Documentation) updates
 ### The release is available [here](https://github.com/sodafoundation/soda/releases/tag/v1.1.0)
 
-## Q4 2020 Scope ('H' Release) - Hawaii Release v1.2.0 (On Going / Planning)
+## Q4 2020 Scope ('H' Release) - Hawaii Release v1.2.0 
 Focus on E2E use cases.
-- Heterogeneous storage monitoring with analytics
-- Data Replication / Snapshot, Failover usecases (on-prem / cloud)
-- Big Data processing (onprem+cloud)
-- Edge use cases (edge+cloud)
-- Features working for e2e usecases/gap fixes (multicloud-datalifecycle, migration, replication)
-- Easy CSI Driver integration / CSI Plug n play updates
-- Addition of drivers / backends
-- SODA API Standards v1.0
-
+- Heterogeneous SPM with Anomaly Detection
+- SPM Visualization (Grafana integration)
+- Resource Monitoring for Port, Controller, and Disk
+- Enhanced Multi-cloud File & Block Store
+- Hybrid Cloud Data Archival/Restore
+- Data Replication & CSI Plug and play use cases
+- More Storage Drivers
+### The release is available [here](https://github.com/sodafoundation/soda/releases/tag/v1.2.0)
 
 ## Older Releases Information (2017-2019)
 _NOTE: The older release roadmap from 2017-2019 under OpenSDS(previous name for SODA Foundation) is shown below
