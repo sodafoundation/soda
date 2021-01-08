@@ -35,6 +35,7 @@ The SODA Releases are made on Quaterly basis currently.
 - Intelligent Costing
 - Hybrid DR
 
+*Please contact us in [SODA Slack](https://sodafoundation.io/slack/) or raise [issues](https://github.com/sodafoundation/soda/issues) if you have use cases or feature suggestions*
 
 # 2020
 ## Q1 2020 Scope ('E' Release) - Elba Release v0.20.0
