@@ -13,6 +13,7 @@ Hawaii: Working with heterogeneous, and providing a unified solution!
 Key Features:
 - Heterogeneous SPM with Anomaly Detection
 - SPM Visualization (Grafana integration)
+- Resource Monitoring for Port, Controller, and Disk 
 - Enhanced Multi-cloud File & Block Store
 - Hybrid Cloud Data Archival/Restore
 - Data Replication & CSI Plug and play use cases
