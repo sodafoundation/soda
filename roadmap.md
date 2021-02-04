@@ -21,12 +21,23 @@ The SODA Releases are made on Quaterly basis currently.
 
 # 2021
 ## Q1 2021 Scope ('I' Release) (Under Planning)
-- Enhanced Heterogeneous Storage Performance Monitoring (More metrics, drivers and framework capabilities)
-- Enhanced analytics and alert management
-- CSI Plug and Play with more drivers
-- Hybrid Data Management (Edge, Connect Cloud with Onprem) 
-- Multicloud Enhancements (Cold Storage, Heterogeneous Object, GCP fix)
-
+**Overall Requirements: (Some will get refined based on Community/TOC/Project Meetings and inputs)**
+ - Heterogeneous Storage 
+	- Enhance the competitiveness of monitoring features
+		- Performance more metrics, drivers, arch enhancements for perf, resource, alerts
+		- Analytics & Visualization
+	- CSI
+		- CSI Collaboration
+		- CSI Plug and Play add 5 more drivers
+- Hybrid Data Management / MultiCloud
+	- Heterogeneous Object Management 
+	- ODA/Cold Storage Backend 
+	- VMware - Heterogeneous storage
+- Project Incubation / Integrations
+	- LinStor / DAOS / YIG / Zenko / OpenEBS 
+  
+- HelpNeed : Want to contribute? contact us in [SODA Slack](https://sodafoundation.io/slack/) #general channel
+  
 ## Q2, Q3, Q4 2021 Scope ('J', 'K', 'L' Releases) (Under Planning)
 - Hybrid Data Store
 - Global Meta Data
