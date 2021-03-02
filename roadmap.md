@@ -25,15 +25,15 @@ The SODA Releases are made on Quaterly basis currently.
  - Heterogeneous Storage 
 	- Enhance the competitiveness of monitoring features
 		- Performance more metrics, drivers, arch enhancements for perf, resource, alerts
+		- NAS support
 		- Analytics & Visualization
 	- CSI
 		- CSI Collaboration
-		- CSI Plug and Play add 5 more drivers
+		- CSI Plug and Play add more drivers
 - Hybrid Data Management / MultiCloud
 	- Heterogeneous Object Management 
 	- ODA/Cold Storage Backend 
-	- VMware - Heterogeneous storage
-- Project Incubation / Integrations
+- Project Incubation / Integrations (attempt)
 	- LinStor / DAOS / YIG / Zenko / OpenEBS 
   
 - HelpNeed : Want to contribute? contact us in [SODA Slack](https://sodafoundation.io/slack/) #general channel
