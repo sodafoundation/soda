@@ -20,31 +20,28 @@ The SODA Releases are made on Quaterly basis currently.
 - Q4: Dec/Jan
 
 # 2021
-## Q1 2021 Scope ('I' Release) (Under Planning)
-**Overall Requirements: (Some will get refined based on Community/TOC/Project Meetings and inputs)**
- - Heterogeneous Storage 
-	- Enhance the competitiveness of monitoring features
-		- Performance more metrics, drivers, arch enhancements for perf, resource, alerts
-		- NAS support
-		- Analytics & Visualization
-	- CSI
-		- CSI Collaboration
-		- CSI Plug and Play add more drivers
-- Hybrid Data Management / MultiCloud
-	- Heterogeneous Object Management 
-	- ODA/Cold Storage Backend 
-- Project Incubation / Integrations (attempt)
-	- LinStor / DAOS / YIG / Zenko / OpenEBS 
-  
-- HelpNeed : Want to contribute? contact us in [SODA Slack](https://sodafoundation.io/slack/) #general channel
+## Q1 2021 Scope ('I' Release) (Isabela Rlease v1.3.0)
+* Heterogeneous SPM with Enhanced Performance Framework
+* NAS Resource support
+* Upgraded SPM Visualization (along with Grafana integration)
+* Multi-cloud HA support
+* More Cloud Backends for Data Archival/Restore
+* Cold Storage Support
+* Cloud Native storage with more CSI drivers.
+* More Storage Backends (On-prem/Cloud)
+
+### The release is available [here](https://github.com/sodafoundation/soda/releases/tag/v1.3.0)
   
 ## Q2, Q3, Q4 2021 Scope ('J', 'K', 'L' Releases) (Under Planning)
+- Enhanced SPM
 - Hybrid Data Store
 - Global Meta Data
-- Project integrations (LinStor, DAOS, YIG, OpenEBS and more)
+- Project integrations (LinStor, DAOS, YIG, Zenko, OpenEBS and more)
 - Unified API
 - Intelligent Costing
-- Hybrid DR
+- Hybrid DR 
+- Enhance Cloud Native Storage
+- Edge Data Management
 
 *Please contact us in [SODA Slack](https://sodafoundation.io/slack/) or raise [issues](https://github.com/sodafoundation/soda/issues) if you have use cases or feature suggestions*
 
