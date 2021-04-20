@@ -20,7 +20,7 @@ The SODA Releases are made on Quaterly basis currently.
 - Q4: Dec/Jan
 
 # 2021
-## Q1 2021 Scope ('I' Release) (Isabela Rlease v1.3.0)
+## Q1 2021 Scope ('I' Release) (Isabela Release v1.3.0)
 * Heterogeneous SPM(Storage Performance Monitoring) with Enhanced Performance Framework
 * NAS Resource support
 * Upgraded SPM Visualization (along with Grafana integration)
@@ -32,7 +32,15 @@ The SODA Releases are made on Quaterly basis currently.
 
 ### The release is available [here](https://github.com/sodafoundation/soda/releases/tag/v1.3.0)
   
-## Q2, Q3, Q4 2021 Scope ('J', 'K', 'L' Releases) (Under Planning)
+## Q2 2021 Scope ('J' Release) (Jerba Release v1.4.0) (Planning and Development)
+- Multicloud : Automated Bucket Management for other vendors, HA enhancements, Tiering policy
+- Delfin (Storage Performance and Resource Monitoring) : Performance Framework with more metrics support, new drivers
+- CSI : multiple csi driver deployment, meta data sync, 
+- On prem : NetApp NAS >9.7 - multiple instances
+
+Requirements are getting refined. Please check the J Release project : https://github.com/orgs/sodafoundation/projects/17
+
+## Q3, Q4 2021 Scope ('K', 'L' Releases) (Under Planning)
 - Enhanced SPM (Storage Performance Monitoring)
 - Hybrid Data Store
 - Global Meta Data
