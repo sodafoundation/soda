@@ -21,7 +21,7 @@ The SODA Releases are made on Quaterly basis currently.
 
 # 2021
 ## Q1 2021 Scope ('I' Release) (Isabela Rlease v1.3.0)
-* Heterogeneous SPM with Enhanced Performance Framework
+* Heterogeneous SPM(Storage Performance Monitoring) with Enhanced Performance Framework
 * NAS Resource support
 * Upgraded SPM Visualization (along with Grafana integration)
 * Multi-cloud HA support
@@ -33,7 +33,7 @@ The SODA Releases are made on Quaterly basis currently.
 ### The release is available [here](https://github.com/sodafoundation/soda/releases/tag/v1.3.0)
   
 ## Q2, Q3, Q4 2021 Scope ('J', 'K', 'L' Releases) (Under Planning)
-- Enhanced SPM
+- Enhanced SPM (Storage Performance Monitoring)
 - Hybrid Data Store
 - Global Meta Data
 - Project integrations (LinStor, DAOS, YIG, Zenko, OpenEBS and more)
