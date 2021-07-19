@@ -32,23 +32,24 @@ The SODA Releases are made on Quaterly basis currently.
 
 ### The release is available [here](https://github.com/sodafoundation/soda/releases/tag/v1.3.0)
   
-## Q2 2021 Scope ('J' Release) (Jerba Release v1.4.0) (Planning and Development)
-- Multicloud : Automated Bucket Management for other vendors, HA enhancements, Tiering policy
-- Delfin (Storage Performance and Resource Monitoring) : Performance Framework with more metrics support, new drivers
-- CSI : multiple csi driver deployment, meta data sync, 
-- On prem : NetApp NAS >9.7 - multiple instances
+## Q2 2021 Scope ('J' Release) (Jerba Release v1.4.0) 
+* Plug-in support for any CSI driver
+* Support multiple concurrent CSI drivers in Kubernetes deployment
+* Container data protection framework based on Restic
+* Policy-based application-consistent snapshot to cloud
+* Storage performance monitoring enhanced with distributed scheduler, host mapping, and additional metrics support
+* Storage Service Plan framework for multi-cloud
+* Bucket management extended to all major cloud backends
 
-Requirements are getting refined. Please check the J Release project : https://github.com/orgs/sodafoundation/projects/17
+### The release is available [here](https://github.com/sodafoundation/soda/releases/tag/v1.4.0)
 
 ## Q3, Q4 2021 Scope ('K', 'L' Releases) (Under Planning)
 - Enhanced SPM (Storage Performance Monitoring)
-- Hybrid Data Store
-- Global Meta Data
-- Project integrations (LinStor, DAOS, YIG, Zenko, OpenEBS and more)
+- Enhance Container Storage & CSI Support
+- SODA ECO Project integrations (LinStor, Zenko, OpenEBS, CORTX and more)
 - Unified API
 - Intelligent Costing
 - Hybrid DR 
-- Enhance Cloud Native Storage
 - Edge Data Management
 
 *Please contact us in [SODA Slack](https://sodafoundation.io/slack/) or raise [issues](https://github.com/sodafoundation/soda/issues) if you have use cases or feature suggestions*
