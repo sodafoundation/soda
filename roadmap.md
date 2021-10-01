@@ -43,6 +43,21 @@ The SODA Releases are made on Quaterly basis currently.
 
 ### The release is available [here](https://github.com/sodafoundation/soda/releases/tag/v1.4.0)
 
+## Q3 2021 Scope ('K' Release) (Kalpeni Release v1.5.0)
+* Enhanced Heterogeneous Performance Metric Collection Framework with improved job distribution, load balancing, multi processing
+* Host Mapping with support group based mapping
+* Filesystem metrics Added
+* Driver Enhancements for SPM
+  * Netapp C mode Performance metric collection
+  * EMC VMAX port and controller resources
+  * EMC VMAX pool, port and controller metrics collection
+* Host mapping from Huawei Oceanstor
+* Visualization enhanced
+* Multi-Cloud User level storage tiering Fixes
+
+
+
+
 ## Q3, Q4 2021 Scope ('K', 'L' Releases) (Under Planning)
 - Enhanced SPM (Storage Performance Monitoring)
 - Enhance Container Storage & CSI Support
