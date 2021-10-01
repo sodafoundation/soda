@@ -58,14 +58,10 @@ The SODA Releases are made on Quaterly basis currently.
 
 
 
-## Q3, Q4 2021 Scope ('K', 'L' Releases) (Under Planning)
+## Q4 2021 Scope ('L' Release) (Under Planning)
 - Enhanced SPM (Storage Performance Monitoring)
-- Enhance Container Storage & CSI Support
+- SODA CDM (Container Data Management) 
 - SODA ECO Project integrations (LinStor, Zenko, OpenEBS, CORTX and more)
-- Unified API
-- Intelligent Costing
-- Hybrid DR 
-- Edge Data Management
 
 *Please contact us in [SODA Slack](https://sodafoundation.io/slack/) or raise [issues](https://github.com/sodafoundation/soda/issues) if you have use cases or feature suggestions*
 
