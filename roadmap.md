@@ -55,13 +55,12 @@ The SODA Releases are made on Quaterly basis currently.
 * Visualization enhanced
 * Multi-Cloud User level storage tiering Fixes
 
+### The release is available [here](https://github.com/sodafoundation/soda/releases/tag/v1.5.0)
 
 
-
-## Q4 2021 Scope ('L' Release) (Under Planning)
+## Q4 2021 Scope ('L' Release) (Under Development)
 - Enhanced SPM (Storage Performance Monitoring)
-- SODA CDM (Container Data Management) 
-- SODA ECO Project integrations (LinStor, Zenko, OpenEBS, CORTX and more)
+
 
 *Please contact us in [SODA Slack](https://sodafoundation.io/slack/) or raise [issues](https://github.com/sodafoundation/soda/issues) if you have use cases or feature suggestions*
 
