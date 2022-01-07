@@ -1,4 +1,4 @@
-# SODA ODF Lamu v1.6.0 Release - Q3 2021
+# SODA ODF Lamu v1.6.0 Release - Q4 2021
 
 ## Summary :
 SODA Lamu v1.6.0 release is an incremental release over SODA Kalpeni v1.5.0 release of SODA Foundation.
