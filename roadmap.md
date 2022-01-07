@@ -20,7 +20,10 @@ The SODA Releases are made on Quaterly basis currently.
 - Q4: Dec/Jan
 
 # 2022
-## Under planning. Will be updated soon. Key areas: SODA Container Data Management and SODA Lake
+Under planning. Will be updated soon. 
+Key areas: 
+- Container Data Management (SODA CDM)
+- Data Lake (SODA Lake)
 
 # 2021
 ## Q4 2021 Scope ('L' Release) (Lamu Release v1.6.0)
