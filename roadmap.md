@@ -13,17 +13,18 @@ SODA Native Projects: Projects contributed to SODA Foundation (Copy rights with 
 SODA Eco Projects: Other projects part of SODA Ecosystem/Solution.
 
 ## Release Roadmap and Scope
-The SODA Releases are made on Quaterly basis currently. 
-- Q1: Mar/Apr
-- Q2: Jun/Jul
-- Q3: Sep/Oct
-- Q4: Dec/Jan
+The SODA Releases are made at least once in 6 months (or on demand)
 
 # 2022
-Under planning. Will be updated soon. 
-Key areas: 
-- Container Data Management (SODA CDM)
-- Data Lake (SODA Lake)
+## May 2022 Scope ('M' Release) (Madagascar Release v1.7.0 ) [Under Development. Expected on 31 May 2022]
+ - Heterogeneous Performance Monitoring
+   - Centralized Manager for wider integration for more storage models
+   - Host Mapping Support added for IBM DS8000, Dell EMC VNX Block, Dell EMC VMAX, HPE 3PAR 
+   - Detailed verification on Ubuntu 20.04 LTS
+ - Container Data Protection for Kubernetes
+   - Kahu, the new Project for Backup/Restore with Metadata Backup PoC
+ - Bug fixes and improvements for Multicloud, Dashboard, Installer and Documentation 
+
 
 # 2021
 ## Q4 2021 Scope ('L' Release) (Lamu Release v1.6.0)
