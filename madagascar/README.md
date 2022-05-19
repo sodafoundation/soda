@@ -1,9 +1,5 @@
 # SODA ODF Madagascar v1.7.0 Release - May 2022
 
-## Summary :
-This release is an incremental release on top of SODA ODF Lamu v1.6.0 release by SODA Foundation.
-The earlier stable release Lamu, you can get [here](https://github.com/sodafoundation/soda/releases/tag/v1.6.0).
-
 ## Release Summary :
 SODA Open Data Framework (ODF) Madagascar v1.7.0 is released with enhanced features for heterogeneous storage performance monitoring, along with the preview of our new container data protection projects.
 We introduced Centralized Manager(CM) for heterogeneous storage monitoring to enable the user for easier deployment along with various existing storage vendor management platforms. Madagascar release comes with a preview of Kahu, our new project for data back for Kubernetes based container application deployment
@@ -40,3 +36,8 @@ Please find a summary of key projects below. Please note, the new projects are u
 
 ## Release Link
  - SODA Madagascar Release v1.7.0 - Please check [here](https://github.com/sodafoundation/soda/releases)
+
+## Previous Release :
+SODA ODF Madagascar release is an incremental release on top of SODA ODF Lamu v1.6.0 release by SODA Foundation.
+The earlier stable release Lamu, you can get [here](https://github.com/sodafoundation/soda/releases/tag/v1.6.0).
+
