@@ -28,13 +28,14 @@ Please find a summary of key projects below. Please note, the new projects are u
 
 
 ## SODA ODF Madagascar v1.7.0 Release Highlights:
-- Heterogeneous Performance Metric Collection Framework improved with Historic performance collection, Scheduling of storage to nodes, Failed Task Scheduling, and Subclasses of StorageResourceTask
-- Driver Enhancements for SPM
-  - NetApp login improvements
-  - VMAX disk resource and disk metrics collection
-  - New drivers support added: Fujitsu ETERNUS, Hitachi HNAS, HPE MSA, IBM DS8000, and Pure Storage Flasharray
-- SPM deployment in Kubernetes (experimental)
-- Multicloud OpenAPI Spec Updates
+ - Heterogeneous Performance Monitoring
+   - Centralized Manager for wider integration for more storage models
+   - Host Mapping Support added for IBM DS8000, Dell EMC VNX Block, Dell EMC VMAX, HPE 3PAR 
+   - Detailed verification on Ubuntu 20.04 LTS
+- Container Data Protection for Kubernetes
+   - Kahu, the new Project for Backup/Restore with Metadata Backup PoC
+- Bug fixes and improvements for Multi-cloud, Dashboard, Installer and Documentation 
+
 
 ## Release Link
  - SODA Madagascar Release v1.7.0 - Please check [here](https://github.com/sodafoundation/soda/releases)
