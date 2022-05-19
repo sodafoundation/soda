@@ -3,14 +3,13 @@
 <img src="https://sodafoundation.io/wp-content/uploads/2020/01/SODA_logo_outline_color_800x800.png" width="200" height="200">
 
 ## Introduction
-SODA Foundation release will be an umbrella release comprising of multiple projects viz., SODA Core Projects, SODA Native Projects and SODA Eco Projects. Currently the releases are quaterly basis.
+SODA Foundation release will be an umbrella release comprising of multiple projects viz., SODA Framework Projects and other participating projects(if any)
 
 SODA Foundation release version number is not linked to any of the projects included in the  release. Please refer the first SODA Foundation release [here](https://github.com/sodafoundation/releases/releases/tag/v0.20.0)
 
 Notes:
-SODA Core Projects: Maintained and owned by SODA Foundation
-SODA Native Projects: Projects contributed to SODA Foundation (Copy rights with SODA Foundation)
-SODA Eco Projects: Other projects part of SODA Ecosystem/Solution.
+SODA Framework Projects: Maintained and owned by SODA Foundation
+SODA Eco Projects: Projects joined formally for collaborative development and integration with SODA Framework Projects. Projects are owned by the respective community/organization.
 
 ## Release Roadmap and Scope
 The SODA Releases are made at least once in 6 months (or on demand)
