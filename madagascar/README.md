@@ -1,0 +1,40 @@
+# SODA ODF Madagascar v1.7.0 Release - May 2022
+
+## Summary :
+This release is an incremental release on top of SODA ODF Lamu v1.6.0 release by SODA Foundation.
+The earlier stable release Lamu, you can get [here](https://github.com/sodafoundation/soda/releases/tag/v1.6.0).
+
+## Release Summary :
+SODA Open Data Framework (ODF) Madagascar v1.7.0 is released with enhanced features for heterogeneous storage performance monitoring, along with the preview of our new container data protection projects.
+We introduced Centralized Manager(CM) for heterogeneous storage monitoring to enable the user for easier deployment along with various existing storage vendor management platforms. Madagascar release comes with a preview of Kahu, our new project for data back for Kubernetes based container application deployment
+ 
+Projects like multicloud, dashboard and installer come with bug fixes and improvements. 
+
+Madagascar : Together we meet the challenges and grow!
+(Madagascar is the biggest island in the Indian Ocean and is famous for its unique wildlife and biodiversity ecosystem)
+ 
+Thanks to all the new contributors to SODA Projects from SODACODE2022!
+ 
+From this release onwards, API, Controller and Dock projects will be known as SODA Terra and multicloud project will be known as SODA Strato.
+We will also have new projects Kahu for aiming to streamline container data protection and Como for virtual data lake solution. 
+Please find a summary of key projects below. Please note, the new projects are under design/development and will have initial releases in the upcoming releases.
+
+## SODA Framework Projects:
+ - Terra is a universal SDS controller for connecting storage to Kubernetes, OpenStack, and VMware environments
+ - Delfin provides a single unified view of storage performance for heterogeneous storage infrastructure
+ - Strato simplifies hybrid and multicloud solutions by using a single S3-compatible interface to connect to public cloud storage
+ - Kahu is a new project to streamline data protection for Kubernetes and application data
+ - Como is a newly proposed virtual data lake project to provide seamless access to data stored in different clouds
+
+
+## SODA ODF Madagascar v1.7.0 Release Highlights:
+- Heterogeneous Performance Metric Collection Framework improved with Historic performance collection, Scheduling of storage to nodes, Failed Task Scheduling, and Subclasses of StorageResourceTask
+- Driver Enhancements for SPM
+  - NetApp login improvements
+  - VMAX disk resource and disk metrics collection
+  - New drivers support added: Fujitsu ETERNUS, Hitachi HNAS, HPE MSA, IBM DS8000, and Pure Storage Flasharray
+- SPM deployment in Kubernetes (experimental)
+- Multicloud OpenAPI Spec Updates
+
+## Release Link
+ - SODA Madagascar Release v1.7.0 - Please check [here](https://github.com/sodafoundation/soda/releases)
