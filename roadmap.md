@@ -18,7 +18,8 @@ The SODA Releases are made at least once in 6 months (or on demand)
 ## May 2022 Scope ('M' Release) (Madagascar Release v1.7.0 ) [Under Development. Expected on 31 May 2022]
  - Heterogeneous Performance Monitoring
    - Centralized Manager for wider integration for more storage models
-   - Host Mapping Support added for IBM DS8000, Dell EMC VNX Block, Dell EMC VMAX, HPE 3PAR 
+   - Host mapping support added for IBM SVC, DS8000, Dell EMC VNX Block, Dell EMC VMAX, NetApp, HPE 3PAR, Pure Storage, Fujitsu Eternus, Hitachi VSP etc
+   - Performance metrics collection support added for HPE 3PAR, Dell EMC Unity
    - Detailed verification on Ubuntu 20.04 LTS
  - Container Data Protection for Kubernetes
    - Kahu, the new Project for Backup/Restore with Metadata Backup PoC
