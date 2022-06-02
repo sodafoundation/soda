@@ -30,12 +30,13 @@ Please find a summary of key projects below. Please note, the new projects are u
    - Performance metrics collection support added for HPE 3PAR, Dell EMC Unity
    - Detailed verification on Ubuntu 20.04 LTS
 - Container Data Protection for Kubernetes
-   - Kahu, the new Project for Backup/Restore with Metadata Backup PoC
-- Bug fixes and improvements for Multi-cloud, Dashboard, Installer and Documentation 
+   - Added Kahu project for container backup and restore for Kubernetes.
+   - Metadata backup POC using NFS Provider from Kahu.
+ - Bug fixes and improvements for Multi-cloud, Dashboard, Installer and Documentation
 
 
 ## Release Link
- - SODA Madagascar Release v1.7.0 - Please check [here](https://github.com/sodafoundation/soda/releases)
+ - SODA Madagascar Release v1.7.0 - Please check [here](https://github.com/sodafoundation/soda/releases/tag/v1.7.0)
 
 ## Previous Release :
 SODA ODF Madagascar release is an incremental release on top of SODA ODF Lamu v1.6.0 release by SODA Foundation.
