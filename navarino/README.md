@@ -1,14 +1,10 @@
-# SODA ODF Navarino v1.7.1 RC1 Release - Dec 2022
+# SODA ODF Navarino v1.8.0 Release - Dec 2022
 
 ## Release Summary :
-SODA Open Data Framework (ODF) Navarino v1.7.1 release comes with a matured Kahu, our new project for data back & restore for Kubernetes based container application deployment. Currently it supports data protection features like Volume backup & restore using LVM, pre hooks and post hooks execution for backup & restore, CSI volume snapshots,  etc.
-Project delfin, SODA solution for heterogeneous storage performance monitoring, comes with more storage models support and improvements.
-Projects like multicloud, dashboard and installer come with bug fixes and improvements. 
+SODA Open Data Framework (ODF) Navarino v1.8.0 is released with backup and restore features of container data protection for Kubernetes, enhanced features for heterogeneous storage performance monitoring, and multicloud data management features
 
-Navarino : Together we meet the challenges and grow!
-(The rugged Navarino Island in Chile’s Tierra del Fuego archipelago is home to some of the most spectacular scenery in South America)
- 
-Thanks to all the new contributors to SODA Projects from SODACODE2022!
+Navarino : New start to explore greater heights!
+(Navarino is a Chilean island popular for its trekking trails and beautiful landscapes.) 
  
 Please find a summary of key projects below. Please note, the new projects are under design/development and will have initial releases in the upcoming releases.
 
@@ -20,7 +16,7 @@ Please find a summary of key projects below. Please note, the new projects are u
  - Como is a newly proposed virtual data lake project to provide seamless access to data stored in different clouds
 
 
-## SODA ODF Navarino v1.7.1 RC1 Release Highlights:
+## SODA ODF Navarino v1.8.0 Release Highlights:
  - Individual installer for Strato, Delfin with individual Dashboard installation
  - SODA Support for Ubuntu 20.04 LTS
  - SODA Kahu supports data protection features like, 
@@ -47,9 +43,9 @@ Please find a summary of key projects below. Please note, the new projects are u
 
 
 ## Release Link
- - SODA Navarino Release v1.7.1 RC1 - Please check [here](https://github.com/sodafoundation/soda/releases/tag/v1.7.1)
+ - SODA Navarino Release v1.8.0 - Please check [here](https://github.com/sodafoundation/soda/releases/tag/v1.8.0)
 
 ## Previous Release :
-SODA ODF Navarino RC1 release is an incremental release on top of SODA ODF Madagascar v1.7.0 release by SODA Foundation.
+SODA ODF Navarino release is an incremental release on top of SODA ODF Madagascar v1.7.0 release by SODA Foundation.
 The earlier stable release Madagascar, you can get [here](https://github.com/sodafoundation/soda/releases/tag/v1.7.0).
 
