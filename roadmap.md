@@ -13,9 +13,46 @@ SODA Eco Projects: Projects joined formally for collaborative development and in
 
 ## Release Roadmap and Scope
 The SODA Releases are made at least once in 6 months (or on demand)
+# 2023
+## May/June 2023 Scope ('O' Release) (Under planning)
+ - Container Data Management
+   - Replication & Failover
+   - Restic / S3 support
+   - Performance optimization 
+ - Heterogeneous Monitoring
+   - Enhanced features and drivers
+   - Kubernetes native monitoring
+ - Multicloud Data Management
+   - Cloud Metadata Management (Store, Classification, Search..)
+   - Support externally provisioned storages 
+ - Data Lake Project kick start with S3 poc 
+ - SODA Experience
+   - Decoupled Dashboards for projects
+   - Pluggable installers
+ - Eco project integrations 
+
 
 # 2022
-## May 2022 Scope ('M' Release) (Madagascar Release v1.7.0 ) [Under Development. Expected on 31 May 2022]
+## Dec 2022 Scope ('N' Release) (Navarino Release v1.8.0)
+ - Container data backup and restore for Kubernetes
+   - Storage Provider Framework
+   - Pre-Post Hooks for Backup / Restore
+   - NFS Provider, CSI Support
+ - Heterogeneous SPM with an improved installer
+   - New Drivers Support (like MacroSAN, Dell EMC ScaleIO, H3C Unistore, Inspur AS5xxx)
+   - Enhanced Installer tested with existing features of heterogeneous storage resource, alert and performance monitoring
+- SODA Strato for Multicloud Data Management
+  - External metadata management (experimental) for multicloud
+  - Enhanced Installer tested with existing features of s3/file/block provisioning, data mobility, and lifecycle management across multiple clouds
+- SODA Experience & QA
+  - Updates for Delfin dashboard changes to support new devices
+  - Delfin fake driver support to Dashboard
+  - Testing and bug fixes
+  - Separate installers for Delfin, Strato and Kahu
+- SODA Support for Ubuntu 20.04 LTS
+### The release is available [here](https://github.com/sodafoundation/soda/releases/tag/v1.8.0)
+
+## May 2022 Scope ('M' Release) (Madagascar Release v1.7.0 ) 
  - Heterogeneous Performance Monitoring
    - Centralized Manager for wider integration for more storage models
    - Host mapping support added for IBM SVC, DS8000, Dell EMC VNX Block, Dell EMC VMAX, NetApp, HPE 3PAR, Pure Storage, Fujitsu Eternus, Hitachi VSP etc
@@ -23,8 +60,8 @@ The SODA Releases are made at least once in 6 months (or on demand)
    - Detailed verification on Ubuntu 20.04 LTS
  - Container Data Protection for Kubernetes
    - Kahu, the new Project for Backup/Restore with Metadata Backup PoC
- - Bug fixes and improvements for Multicloud, Dashboard, Installer and Documentation 
-
+ - Bug fixes and improvements for Multicloud, Dashboard, Installer and Documentation
+### The release is available [here](https://github.com/sodafoundation/soda/releases/tag/v1.7.0)
 
 # 2021
 ## Q4 2021 Scope ('L' Release) (Lamu Release v1.6.0)
