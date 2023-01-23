@@ -23,59 +23,6 @@ Each of the SODA Release will be provided a combined solution and use case value
 
 All the SODA Releases will be made from github.com/sodafoundation/soda. As per the current plan, we will be starting our quarterly releases from Elba release.
 
-## SODA Projects
+## SODA Getting Started
 
-Please find all the SODA Projects information [here](https://docs.sodafoundation.io/projects/)
-
-## Documentation
-
-[https://docs.sodafoundation.io](https://docs.sodafoundation.io/)
-
-## Quick Start - To Use/Experience
-
-[https://docs.sodafoundation.io](https://docs.sodafoundation.io/)
-
-## Quick Start - To Develop
-
-[https://docs.sodafoundation.io](https://docs.sodafoundation.io/)
-
-## Latest Releases
-
-[https://github.com/sodafoundation/soda/releases](https://github.com/sodafoundation/soda/releases)
-
-## Support and Issues
-
-Any SODA Release related issues/suggestions, please raise at https://github.com/sodafoundation/soda/issues
-For all other issues/suggestions, please raise to the respective project/repo: <project-link-as-given-in-each-SODA-Release>/issues
-
-## Project Community
-
-[https://sodafoundation.io/slack/](https://sodafoundation.io/slack/)
-
-## How to contribute to this project?
-
-Join [https://sodafoundation.io/slack/](https://sodafoundation.io/slack/) and share your interest in the ‘general’ channel
-
-Checkout https://github.com/sodafoundation/soda/issues labelled with ‘good first issue’ or ‘help needed’ or ‘help wanted’ or ‘StartMyContribution’ or ‘SMC’
-OR checkout from the respective project at project-specific-github-link/issues
-
-## Project Roadmap
-
-Build SODA which is an open source unified autonomous data management framework for data mobility from edge to core to cloud. Also provide a unified data platform and establish a unified data/storage management API standards working with standard bodies and industry partners.
-
-Release Roadmap and Scope are available [here](https://github.com/sodafoundation/soda/blob/master/roadmap.md)
-
-[https://docs.sodafoundation.io](https://docs.sodafoundation.io/)
-
-## Join SODA Foundation
-
-Website : [https://sodafoundation.io](https://sodafoundation.io/)
-
-Slack  : [https://sodafoundation.io/slack/](https://sodafoundation.io/slack/)
-
-Twitter  : [@sodafoundation](https://twitter.com/sodafoundation)
-
-Mailinglist  : [https://lists.sodafoundation.io](https://lists.sodafoundation.io/)
-
-## You can add your open source project to SODA Foundation Project Landscape
-If you want to submit your project to SODA Foundation to leverage better branding, networking, users, testing and enhance the community, you can apply at [SODA Incubator](https://sodafoundation.io/projects/incubator/)
+You can get all the information, community channels and other information about SODA Foundation and its projects at [SODA Starter](http://bit.ly/soda-starter)
