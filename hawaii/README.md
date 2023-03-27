@@ -19,10 +19,3 @@ Key Features:
 - Data Replication & CSI Plug and play use cases
 - More Storage Drivers
 
-## Releases
- - Hawaii Release v1.2.0 : [https://github.com/sodafoundation/soda/releases/tag/v1.2.0](https://github.com/sodafoundation/soda/releases/tag/v1.2.0)
-	 - All the information about the release available at the release link
-
- - Hawaii Pre-Release v1.1.1 : [https://github.com/sodafoundation/soda/releases/tag/v1.1.1](https://github.com/sodafoundation/soda/releases/tag/v1.1.1)
-	 - All the information about the release available at the release link
-	
