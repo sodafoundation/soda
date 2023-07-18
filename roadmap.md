@@ -14,23 +14,39 @@ SODA Eco Projects: Projects joined formally for collaborative development and in
 ## Release Roadmap and Scope
 The SODA Releases are made at least once in 6 months (or on demand)
 # 2023
-## May/June 2023 Scope ('O' Release) (Under planning)
+## Dec 2023 Scope ('P' Release) (Under planning)
  - Container Data Management
    - Replication & Failover
-   - Restic / S3 support
+   - Enhance Job based scheduling, Restic / S3 support
    - Performance optimization 
  - Heterogeneous Monitoring
-   - Enhanced features and drivers
    - Kubernetes native monitoring
  - Multicloud Data Management
-   - Cloud Metadata Management (Store, Classification, Search..)
-   - Support externally provisioned storages 
+   - Search Optimization
+   - Unstructured metadata managemnt enhancements
  - Data Lake Project kick start with S3 poc 
  - SODA Experience
-   - Decoupled Dashboards for projects
+   - Decoupled Dashboards for projects (continue)
    - Pluggable installers
  - Eco project integrations 
 
+## July 2023 Scope ('O' Release) (Okinawa Release V1.9.0)
+ - Multicloud Metadata Management
+   - Collect/Store/Query metadata (including externally provisioned)
+   - Metadata management support for AWS, GCP and Azure clouds
+   - Metadata-driven data access
+
+- Container Data Protection
+  - CSI snapshot support for Linstore and Ceph S3 support
+  - Job-based Backup/Restore
+  - Restic as data mover
+
+- User Experience
+  - Independent Project level visualization
+
+- Defect Fixes, Enhancements, Documentation improvements
+  
+### The release is available [here](https://github.com/sodafoundation/soda/releases/tag/v1.9.0)
 
 # 2022
 ## Dec 2022 Scope ('N' Release) (Navarino Release v1.8.0)
